@@ -5,7 +5,7 @@ import java.util.concurrent.ThreadLocalRandom;
 public class Exercise10 {
 
     //TODO ↓
-    // Imprimir el color de las pelotas que salgan, hasta que salgan 2 de color azul
+    // Imprimir el  color de las pelotas que salgan, hasta que salgan 2 de color azul
     // El mensaje a imprimir es → La bola es de color: COLOR_BOLA
     // COLOR_BOLA puede ser → rojo, azul, verde
     public static void main(String[] args) {
